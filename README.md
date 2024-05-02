@@ -1,0 +1,1 @@
+Welcome to my statistical inference project on Drug Poisoning Deaths in the United States. The main objective of this analysis is to understand the patterns and trends of drug poisoning deaths in the specified population.
